@@ -1,2 +1,2 @@
-Visit this link for webpage
-https://mdmahamudullah.github.io/Python-Learning-Tutorial-Notes/
+# Visit this link for webpage
+# https://mdmahamudullah.github.io/Python-Learning-Tutorial-Notes/
